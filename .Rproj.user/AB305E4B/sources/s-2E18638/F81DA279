@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537549441434.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F81DA279",
+    "lastKnownWriteTime" : 1537553177,
+    "last_content_update" : 1537553177093,
+    "path" : "~/Miguel Orjuela/Unipiloto/ST00008-20182/Lab2-Files/ex4-nbinom.R",
+    "project_path" : "ex4-nbinom.R",
+    "properties" : {
+        "cursorPosition" : "3,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

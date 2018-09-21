@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537548216378.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "90AA401C",
+    "lastKnownWriteTime" : 1537548827,
+    "last_content_update" : 1537548827060,
+    "path" : "~/Miguel Orjuela/Unipiloto/ST00008-20182/Lab2-Files/ex2-binom.R",
+    "project_path" : "ex2-binom.R",
+    "properties" : {
+        "cursorPosition" : "6,5",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

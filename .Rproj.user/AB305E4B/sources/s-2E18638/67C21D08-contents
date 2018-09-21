@@ -1,0 +1,13 @@
+library(ggplot2)
+y <- 0:10
+prob <- dbinom(y,10,0.5)
+df <- data.frame(y = y, prob = prob)
+plot <- ggplot(data=df, aes(x=factor(y), y=prob)) +
+  geom_bar(stat="identity", fill="steelblue") +
+  labs(x='y',y='p(y)') +
+  theme_minimal()
+plot
+
+0.0009765625+0.0097656250+0.0439453125+0.1171875000
+
+rbinom(1,10,0.5)

@@ -1,0 +1,7 @@
+# P(Y=0)
+dhyper(0,4,20-4,5)
+# P(Y=1)
+dhyper(1,4,20-4,5)
+# P(Y<1)
+1-phyper(1,4,20-4,5)
+phyper(1,4,20-4,5,lower.tail = FALSE)

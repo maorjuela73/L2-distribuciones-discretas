@@ -1,0 +1,6 @@
+# P(Y=3)
+dgeom(3-1,0.02)
+# P(Y>=2)
+1 - (dgeom(1-1,0.02) + dgeom(2-1,0.02))
+1 - pgeom(2-1,0.02)
+pgeom(2-1,0.02, lower.tail = FALSE)

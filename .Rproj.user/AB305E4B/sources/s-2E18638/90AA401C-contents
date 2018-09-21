@@ -1,0 +1,7 @@
+# P(Y=9)
+dbinom(9,10,0.3)
+# P(Y=10)
+dbinom(10,10,0.3)
+# P(Y>=9)
+1-pbinom(8,10,0.3)
+pbinom(8,10,0.3, lower.tail = FALSE)
